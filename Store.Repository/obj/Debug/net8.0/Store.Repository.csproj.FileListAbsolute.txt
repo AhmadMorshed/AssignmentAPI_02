@@ -1,0 +1,15 @@
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfo.cs
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\bin\Debug\net8.0\Store.Repository.deps.json
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\bin\Debug\net8.0\Store.Repository.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\bin\Debug\net8.0\Store.Repository.pdb
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\bin\Debug\net8.0\Store.Data.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\bin\Debug\net8.0\Store.Data.pdb
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
+C:\Users\Ahmad Nakawa\Desktop\C# Basic\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
